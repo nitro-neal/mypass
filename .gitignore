@@ -1,0 +1,7 @@
+.env
+.envdne
+node_modules
+file
+.idea
+safe.dat
+.vscode
